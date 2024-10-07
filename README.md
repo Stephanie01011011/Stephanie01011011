@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there 👋 Stephanie's Data is loading...
+
+<picture>
+ <img alt="YOUR-ALT-TEXT" src="https://ibb.co/KDjVzx3">
+</picture>
 
 <!--
 **Stephanie01011011/Stephanie01011011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
