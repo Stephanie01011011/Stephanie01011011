@@ -19,7 +19,7 @@ My first internship my role was as web developer and designer, which turned into
 My current role as web and data support allows me to clean company data, automate marketing data for the sales team, and use excel functions such as VLOOKUP to deliver intelligence to the marketing and sales team.
 
 <h2>Projects</h2>
-Check out my projects here --->
+Check out my projects here ---> https://github.com/Stephanie01011011/data-analyst-portfolio
 
 <h2>Get in touch with me!</h2>
 LinkedIn: https://www.linkedin.com/in/slivengood01/
