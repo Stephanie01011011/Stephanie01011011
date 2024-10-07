@@ -1,7 +1,8 @@
 ## Hi there 👋 Stephanie's Data is loading...
 
 <picture>
- <img alt="YOUR-ALT-TEXT" src=https://ibb.co/KDjVzx3>
+ 
+ <img alt="YOUR-ALT-TEXT" src="https://i.ibb.co/ScXV7w9/Stephanie-data-gh-img.png">
 </picture>
 
 <!--
